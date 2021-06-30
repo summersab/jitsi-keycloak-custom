@@ -1,2 +1,2 @@
 FROM d3473r/jitsi-keycloak
-COPY keycloak-jitsi.json /config/
+COPY keycloak.json /config/keycloak.json
