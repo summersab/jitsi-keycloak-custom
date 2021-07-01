@@ -5,12 +5,14 @@
     "alwaysDisplayInConsole": false,
     "clientAuthenticatorType": "client-secret",
     "redirectUris": [
+        "https://jitsi-keycloak-wsxel72w7q-uc.a.run.app/*",
         "https://login.meet.nunimbus.com/*",
         "https://meet.nunimbus.com/*"
     ],
     "webOrigins": [
         "https://login.meet.nunimbus.com",
-        "https://meet.nunimbus.com"
+        "https://meet.nunimbus.com",
+        "https://jitsi-keycloak-wsxel72w7q-uc.a.run.app"
     ],
     "notBefore": 0,
     "bearerOnly": false,
