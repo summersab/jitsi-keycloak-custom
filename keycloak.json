@@ -5,10 +5,10 @@
     "alwaysDisplayInConsole": false,
     "clientAuthenticatorType": "client-secret",
     "redirectUris": [
-        "https://meet-auth.nunimbus.com/*"
+        "https://auth.meet.nunimbus.com/*"
     ],
     "webOrigins": [
-        "https://meet-auth.nunimbus.com"
+        "https://auth.meet.nunimbus.com"
     ],
     "notBefore": 0,
     "bearerOnly": false,
